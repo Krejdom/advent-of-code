@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace AoC
 {
-    class Day010
+    class Day10
     {
         static void Main(string[] args)
         {
